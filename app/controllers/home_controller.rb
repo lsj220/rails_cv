@@ -4,7 +4,7 @@ class HomeController < ApplicationController
   end
 
   def likelion
-    @city = 'Brisbane'
+    @city = 'Australia'
   end
   
   def library
